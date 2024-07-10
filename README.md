@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Michael Godwin 
-- 👀 I’m love basketball 
-- 🌱 I’m currently learning frontend development 
-- 💞️ I’m looking to collaborate on projects 
-- 📫 How to reach me on WhatsApp: +2349016591960
+- 💞️ I’m love basketball 
+- 🌱 I'm a front-end developer
+- ✨ HTML, CSS, React, REDUX, JavaScript
+- 👀 I’m looking to collaborate on projects 
+- 📫 E-mail: mickeygodwin07@gmail.com
 
 <!---
 Lordmichael1/Lordmichael1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
