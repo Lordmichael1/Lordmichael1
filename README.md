@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Michael Godwin 
 - 💞️ I’m love basketball 
 - 🌱 I'm a front-end developer
-- ✨ HTML, CSS, React, REDUX, JavaScript
+- ✨ HTML, CSS, React, REDUX, JavaScript, TypeScript
 - 👀 I’m looking to collaborate on projects 
 - 📫 E-mail: mickeygodwin07@gmail.com
 
